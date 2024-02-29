@@ -1,0 +1,44 @@
+.main{
+  border: 2px solid transparent;
+  background-color: rgb(245, 103, 47);
+  border-radius: 50px;
+  color: white;
+  width: 50vw;
+  height: auto;
+  box-shadow: 45px 0px 90px 10px grey;
+  text-align: center;
+  margin: 4em 0em 0em 20em ;
+  padding-top:4em;
+}
+#inp{
+  border-radius: 50px;
+  height: 40px;
+  width: 9em;
+  box-shadow: 10px 10px 2px 5px rgb(21, 0, 128);
+  margin-left: 0rem;
+  font-size: xx-large;
+  text-align: center;
+  outline: none;
+}
+
+.update,.deleteAll{
+  margin: 20px;
+  background-color: rgb(17, 4, 54);
+  color:wheat;
+  width:100px;
+  height:30px;
+  border-radius: 30px;
+}
+.deleteAll{
+  margin-left: 20vw;
+  color: white;
+  background-color: red;
+}
+.label{
+  font-size: xx-large;
+  margin-top:10em
+}
+.heading{
+  font-size: xxx-large;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

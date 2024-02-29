@@ -1,0 +1,30 @@
+.wish-block {
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  margin-left: 150px
+}
+
+.wish {
+  width: 300px;
+  height: 50px;
+  border: 3px solid black;
+  margin-right: 20px;
+  color: aqua;
+  background-color: brown;
+  border-radius: 25px;
+  font-size: larger;
+  display: flex;
+  align-items: center;
+  padding: 0 20px;
+}
+
+button {
+  border-radius: 25px;
+  height: 50px;
+  width: 100px;
+  background-color: #e5180d; 
+  color: #fff;
+  border: none;
+  padding: 0;
+}
