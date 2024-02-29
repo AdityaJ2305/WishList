@@ -11,6 +11,7 @@ function App() {
     e.preventDefault();
     if (awish.trim() === "") {
       alert("Enter The Wish Please");
+      return;
     }
 
     if (wishes.find((wish) => wish.content === awish)) {
@@ -67,5 +68,3 @@ function App() {
 }
 
 export default App;
-
-

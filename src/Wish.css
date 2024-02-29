@@ -13,10 +13,8 @@
   color: aqua;
   background-color: brown;
   border-radius: 25px;
-  font-size: larger;
-  display: flex;
-  align-items: center;
-  padding: 0 20px;
+  font-size:larger;
+  padding-top: 20px;
 }
 
 button {

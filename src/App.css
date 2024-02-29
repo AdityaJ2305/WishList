@@ -1,5 +1,4 @@
 .main{
-  border: 2px solid transparent;
   background-color: rgb(245, 103, 47);
   border-radius: 50px;
   color: white;
@@ -15,7 +14,6 @@
   height: 40px;
   width: 9em;
   box-shadow: 10px 10px 2px 5px rgb(21, 0, 128);
-  margin-left: 0rem;
   font-size: xx-large;
   text-align: center;
   outline: none;
