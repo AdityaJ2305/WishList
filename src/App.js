@@ -11,6 +11,7 @@ function App() {
     e.preventDefault();
     if (awish.trim() === "") {
       alert("Enter The Wish Please");
+      setAwish("");
       return;
     }
 
